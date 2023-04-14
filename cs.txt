@@ -1,7 +1,7 @@
 {
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
 "sites": [ {"key":"卧龙资源","name":"疾风资源(聚合)","type":1,"api":"http://vmt.jifk.nl/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"csp_Kunyu77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"bdys","name":"磁力高清","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://45.125.46.61/box/json/%E7%A3%81%E5%8A%9B.json"},
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nmys","name":"农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1670740507.json"},
