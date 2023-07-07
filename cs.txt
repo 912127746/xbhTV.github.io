@@ -51,7 +51,6 @@
 {"key":"csp_XBPQ_达达龟源","name":"达达龟源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/达达龟.json"},
 {"key":"csp_XBPQ_花猫影视","name":"花猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/花猫TV.json"},
 {"key":"csp_XBPQ_兄弟影视","name":"兄弟影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/兄弟影视.json"},
-{"key":"csp_XBPQ_量子影视","name":"量子影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/量子影视.json"},
 {"key":"csp_XBPQ_鸭鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/%E9%B8%AD%E5%A5%88%E9%A3%9E.json"},
 {"key":"csp_XBPQ_视觉影院","name":"视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/视觉影院.json"},
 {"key":"csp_XBPQ_扎兔影视","name":"扎兔影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/莫扎兔.json"},
