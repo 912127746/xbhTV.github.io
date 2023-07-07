@@ -1,41 +1,42 @@
-{
+ {
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
 "sites": [ {"key":"卧龙资源","name":"疾风资源(聚合)","type":1,"api":"http://vmt.jifk.nl/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"VIP影视","name":"VIP影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://45.125.46.61/box/json/VIP%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czsapp","name":"厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Nmys","name":"农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1670740507.json"},
-{"key":"csp_Bdys","name":"哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fant","name":"饭团影院(SP)","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuan1.com"},
-{"key":"csp_Yht","name":"野荷塘影院(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yehetang.cc"},
-{"key":"csp_Ys555","name":"555影视(SP)","type":3,"api":"csp_Ys555","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.555dyy1.com"},
-{"key":"csp_Xinsj","name":"新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
-{"key":"csp_BuLei","name":"布雷影院(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
-{"key":"csp_Lgyy","name":"蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
-{"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
-{"key":"csp_YQKAPP","name":"一起看(SP)","type":3,"api":"csp_YQKAPP","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_Apple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"两个BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_panghu","name":"胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Smdyy","name":"神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_lmys","name":"龙门影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"},
-{"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Libvio","name":"️Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
-{"key":"csp_Voflix","name":"Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Paper","name":"小纸条(SP)","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/ali/token.txt"},
-{"key":"csp_Anime1","name":"日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ying","name":"樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+{“密钥”：“量子资源“，”名称“：”量子资源“，”类型“：1，”api“：”https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/“，”可搜索“：1，”快速搜索“：1}，
+{“key”：“VIP影视“，”name“：”VIP影视“，”type“：3，”api“：”csp_XPath“，”searchable“：1，”quickSearch“：1、”filterable“：0，”ext“：”http://45.125.46.61/box/json/VIP影视.json“}，
+{“key”：“csp_Kuaikan”，“name”：“快看（SP）“，”type“：3，”api“：”csp_Kuaikan“，”searchable“：1，”quickSearch“：1”filterable“：1}，
+{“key”：“csp_Czsapp”，“name”：“厂长资源（SP）“，”类型“：3，”api“：”csp_Czsapp“，”可搜索“：1，”快速搜索“：一，”可过滤“：0}，
+{“key”：“csp_Nmys”，“name”：“农民影视（SP）“，”type“：3，”api“：”csp_Nmys“，”searchable“：1，”quickSearch“：1http://shuyuan.miaogongzi.net/shuyuan/1670740507.json&#34;},
+{“key”：“csp_Bdys”，“name”：“哔嘀影视（SP）“，”type“：3，”api“：”csp_Bdys01“，”searchable“：1，”quickSearch“：1”filterable“：1}，
+{“key”：“csp_fant”，“name”：“饭团影院（SP）“，”type“：3，”api“：”csp_Fantuan“，”filterable“：1，”quickSearch“：1、”searchable“：一，”ext“：”https://www.fantuan1.com&#34;},
+{“key”：“csp_Yht”，“name”：“野荷塘影院（SP）“，”type“：3，”api“：”csp_Yht“，”searchable“：1，”quickSearch“：1、”filterable“：一，”ext“：”https://www.yehetang.cc网站&#34;},
+{“key”：“csp_Ys555”，“name”：“555影视（SP）“，”type“：3，”api“：”csp_Ys555“，”filterable“：1，”quickSearch“：1、”searchable“：一，”ext“：”https://www.555dyy1.com&#34;},
+ {“key”：“csp_Xinsj”，“name”：“new visualization（SP）”，“type”：3，“api”：“csp_Xinsj”，“searchable”：1，“quickSearch”：1 网址：http://www.6080dy2.com &#34;},
+{“key”：“csp_BuLei”，“name”：“布雷影院（SP）“，”type“：3，”api“：”csp_BuLei“，”searchable“：1，”quickSearch“：1、”filterable“：一，”ext“：”网址：https://www.bulei.cc&#34;},
+{“key”：“csp_Lgyy”，“name”：“蓝光影院（SP）“，”type“：3，”api“：”csp_Lgyy“，”searchable“：1，”quickSearch“：1、”filterable“：一，”ext“：”网址：https://www.lgyy.vip&#34;},
+{“key”：“csp_Ysgc”，“name”：“影视工厂（SP）“，”type“：3，”api“：”csp_Ysgc“，”searchable“：1，”quickSearch“：1、”filterable“：一，”ext“：”https://www.ysgc.fun&#34;},
+{“key”：“csp_YQKAPP”，“name”：“一起看（SP）“，”type“：3，”api“：”csp_YQKAPP“，”filterable“：1，”playerType“：2，”quickSearch“：1https://api-tx.shumaxc.xyz网址&#34;},
+{“key”：“csp_Apple”，“name”：“小苹果（SP）“，”type“：3，”api“：”csp_LiteApple“，”searchable“：1，”quickSearch“：1”filterable“：1}，
+{“key”：“csp_Btto”，“name”：“两个BT（SP）“，”type“：3，”api“：”csp_Bttwoo“，”searchable“：1，”quickSearch“：1”filterable“：1}，
+{“key”：“csp_panghu”，“name”：“胖虎影视（SP）“，”type“：3，”api“：”csp_Panghu“，”searchable“：1，”quickSearch“：1”filterable“：1}，
+{“key”：“csp_Smdyy”，“name”：“神马影院（SP）“，”type“：3，”api“：”csp_Smdyy“，”searchable“：1，”quickSearch“：1”filterable“：1}，
+{“key”：“csp_lmys”，“name”：“龙门影视（SP）“，”type“：3，”api“：”csp_AppYsV2“，”searchable“：1，”quickSearch“：1、”filterable“：2，”ext“：”http://dy.hm.iqinu.com:88/lm_api.php/v1.vod&#34;},
+{“key”：“csp_DiDuan”，“name”：“低端影视（SP）“，”类型“：3，”api“：”csp_Ddrk“，”单击“：”ddys.tv#vjsp&#62;按钮“，”可搜索“：1，”快速搜索“：一，”可过滤“：0}，
+{“key”：“csp_Libvio”，“name”：“️Libvio（SP）“，”type“：3，”api“：”csp_Libvio“，”searchable“：1，”quickSearch“：1、”filterable“：0，”ext“：”网址：https://tv.libvio.cc&#34;},
+{“key”：“csp_Voflix”，“name”：“Voflix（SP）”，“type”：3，“api”：“csp_Voflix”，《可搜索》：1，“快速搜索”：1，《可过滤》：1}，
+{“key”：“csp_Cokemv”，“name”：“Cokemv（SP）”，“type”：3，“api”：“csp_Cokemv”，“playerType”：2，“searchable”：1，“quickSearch”：1、“filterable”：1}，
+{“key”：“csp_Auete”，“name”：“Auete（SP）”，“type”：3，“api”：“csp_Aueet”，“searchable”：1，“quickSearch”：1、“filterable”：1}，
+{“key”：“csp_Zxzj”，“name”：“在线之家（SP）“，”类型“：3，”api“：”csp_Zxzj“，”可搜索“：1，”快速搜索“：一，”可过滤“：1}，
+{“key”：“csp_Paper”，“name”：“小纸条（SP）“，”type“：3，”api“：”csp_Paper“，”searchable“：1，”playerType“：1”quickSearch“：1、”filterable“：一，”ext“：”https://yydsys.top/duo/ali/token.txt&#34;},
+{“key”：“csp_Anime1”，“name”：“日本动漫（SP）“，”类型“：3，”api“：”csp_Anime1“，”可搜索“：1，”快速搜索“：一，”可过滤“：1}，
+{“key”：“csp_Dm84”，“name”：“动漫巴士（SP）“，”类型“：3，”api“：”csp_Dm84“，”可搜索“：1，”快速搜索“：一，”可过滤“：1}，
+{“key”：“csp_Ying”，“name”：“樱花动漫（SP）“，”type“：3，”api“：”csp_Ying“，”searchable“：1，”quickSearch“：1”filterable“：1}，
 
-{"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+{“key”：“360_spider”，“name”：“️360影视(官)“，”api“：”csp_SP360“，”type“：3，”filterable“：1，”quickSearch“：1”searchable“：1}，”，
+{“key”：“csp_QQ”，“name”：“腾讯视频(官)“，”type“：3，”api“：”csp_QQ“，”searchable“：1，”quickSearch“：1、”filterable“：1}，
+ {key“：”csp_IQIYI“，”name“：”arti（官方），“type”：3，“api”：“csp_IQUIYI”，“quickSearch”：1，“searchable”：1、“filterable”：1}，
+{“key”：“csp_MGTV”，“name”：“芒果电视(官)“，”type“：3，”api“：”csp_Mgtv“，”searchable“：1，”quickSearch“：1、”filterable“：1}，
 
-{"key":"csp_XBPQ_真不卡","name":"真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/真不卡影院.json"},
+{“键”：“csp_XBPQ_真不卡“，”名称“：”真不卡“，”type“：3，”api“：”csp_XBPQ“，”searchable“：1，”quickSearch“：1https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/真不卡影院.json“}，
 {"key":"csp_XBPQ_优嗯影视","name":"UM影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/UM影院.json"},
 {"key":"csp_XBPQ_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/乐猪影视.json"},
 {"key":"csp_XBPQ_石榴电影","name":"️石榴电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1677421439.json"},
