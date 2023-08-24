@@ -1,6 +1,6 @@
 {
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
-"sites": [ {"key":"卧龙资源","name":"疾风资源(聚合)","type":1,"api":"http://vmt.jifk.nl/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+"sites": [ {"key":"卧龙资源","name":"疾风资源(聚合)","type":1,"api":"http://vmt.jfdy.top/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"VIP影视","name":"VIP影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://45.125.46.61/box/json/VIP%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -73,7 +73,7 @@
 # type1 聚合.并发.轮询
 //{"name":"解析聚合","type":3,"url":"Demo"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"jik","type":1,"url":"https://api.jifk.nl/?url="},
+{"name":"jik","type":1,"url":"https://api.jfdy.top/?url="},
 {"name":"解析1","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 {"name":"解析2","type":1,"url":"http://jx.xdv.icu/home/api?type=ys&uid=3622468&key=bklotuDFHIKMRSTVX6&url="},
 {"name":"解析3","type":1,"url":"http://81.69.23.108:7788/json.php?url="},
